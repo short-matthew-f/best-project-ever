@@ -1,0 +1,24 @@
+{
+  "name": "my_first_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/short-matthew-f/best-project-ever.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/short-matthew-f/best-project-ever/issues"
+  },
+  "homepage": "https://github.com/short-matthew-f/best-project-ever#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
